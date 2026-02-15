@@ -1,0 +1,93 @@
+const products = [
+  {
+    id: 1,
+    slug: "bls-opaque-fit-tummy-control-midwaist-shapewear-skin",
+    name: "BLS - Opaque Fit Tummy Control Midwaist Shapewear - Skin",
+    brand: "Active & Shape Wear",
+    price: 3950,
+    originalPrice: null,
+    description:
+      "Contours your waist for a smoother silhouette with high-waist shaping and extended leg length. Designed to shape and smooth your midsection seamlessly under any outfit.",
+    sizes: ["XL", "XXL", "XXXL"],
+    colors: ["Skin"],
+    images: [
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-OpaqueFitTummyControlMidwaistShapewear-Skin.png",
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-OpaqueFitTummyControlMidwaistShapewear-Skin2.png",
+    ],
+    badge: "Best Seller",
+    soldCount: 10,
+  },
+  {
+    id: 2,
+    slug: "bls-perfect-waist-tummy-control-midwaist-shapewear-skin",
+    name: "BLS - Perfect Waist Tummy Control Midwaist Shapewear - Skin",
+    brand: "Active & Shape Wear",
+    price: 3750,
+    originalPrice: null,
+    description:
+      "Tight-fitted mid-waist brief with a seamless finish for everyday tummy smoothening. Perfect for daily wear, providing gentle compression and a natural look under clothing.",
+    sizes: ["L", "XL"],
+    colors: ["Skin"],
+    images: [
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-PerfectWaistTummyControlMidwaistShapewear-Skin.png",
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-PerfectWaistTummyControlMidwaistShapewear-Skin2.png",
+    ],
+    badge: "",
+    soldCount: 24,
+  },
+  {
+    id: 3,
+    slug: "bls-power-tummy-trimmer-shapewear-skin",
+    name: "BLS - Power Tummy Trimmer Shape Wear - Skin",
+    brand: "Active & Shape Wear",
+    price: 3750,
+    originalPrice: null,
+    description:
+      "Slip-on tummy trimmer designed for shaping and supporting. Feather-light and invisible under clothing, this trimmer gives you a smooth and confident look all day long.",
+    sizes: ["XL"],
+    colors: ["Skin"],
+    images: [
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-PowerTummyTrimmerShapeWear-Skin.png",
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-PowerTummyTrimmerShapeWear-Skin2.png",
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-PowerTummyTrimmerShapeWear-Skin3.png",
+    ],
+    badge: "New Arrival",
+    soldCount: 18,
+  },
+  {
+    id: 4,
+    slug: "bls-miracle-figure-control-bodysuit-skin",
+    name: "BLS - Miracle Figure Control Bodysuit - Skin",
+    brand: "Active & Shape Wear",
+    price: 6750,
+    originalPrice: null,
+    description:
+      "Mid-thigh overbust bodysuit with adjustable straps for waist, belly, and rear compression. Full-body shaping solution perfect for special occasions and formal wear.",
+    sizes: ["XL", "XXL"],
+    colors: ["Skin"],
+    images: [
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-MiracleFigureControlBodysuit-Skin.png",
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-MiracleFigureControlBodysuit-Skin2.png",
+    ],
+    badge: "Popular",
+    soldCount: 32,
+  },
+  {
+    id: 5,
+    slug: "bls-opaque-fit-tummy-control-midwaist-shapewear-black",
+    name: "BLS - Opaque Fit Tummy Control Midwaist Shapewear - Black",
+    brand: "Active & Shape Wear",
+    price: 3950,
+    originalPrice: null,
+    description:
+      "Waist and leg contouring shapewear with high-waist design and stretchable material. The black variant offers the same premium shaping with a sleek, versatile color.",
+    sizes: ["XXL"],
+    colors: ["Black"],
+    images: [
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-OpaqueFitTummyControlMidwaistShapewear-Black.png",
+      "https://cdn.shopify.com/s/files/1/0593/3672/0559/files/BLS-OpaqueFitTummyControlMidwaistShapewear-Black2.png",
+    ],
+    badge: "",
+    soldCount: 15,
+  },
+];
