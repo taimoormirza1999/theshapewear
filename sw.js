@@ -1,4 +1,4 @@
-const CACHE_NAME = "shapewear-v2";
+const CACHE_NAME = "shapewear-v3";
 const STATIC_ASSETS = [
   "/",
   "/index.html",
